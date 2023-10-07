@@ -32,6 +32,4 @@ To get started, follow these steps:
 
 If you find Lama Cleaner useful and would like to support its development, consider subscribing to our [Boosty page](https://boosty.to/neurogen).
 
----
-
-Feel free to customize the README.md further to include any additional information or details about your project.
+---.
